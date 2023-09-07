@@ -2,3 +2,5 @@
 Testing out GitHub's behavior with stacked PRs
 
 Change from first PR
+
+Change from second PR
